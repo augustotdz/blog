@@ -1,4 +1,4 @@
-// criarTabelas.js
+// Área para criação das tabelas do banco de dados
 const knex = require('./db');
 
 async function criarTabelas() {
