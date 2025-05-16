@@ -1,3 +1,4 @@
+// index.js e knex.js unidos em um unico arquivo
 // ponto de entrada do servidor
 const express = require('express');
 const knex = require('./db');

@@ -1,5 +1,5 @@
 //configuração do Knex e SQLite
-// db.js
+// banco de dados
 const knex = require('knex')({
     client: 'sqlite3',
     connection: {
